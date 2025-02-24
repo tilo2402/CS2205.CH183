@@ -13,6 +13,6 @@
 
 ### Thành viên nhóm
 
-| STT | Họ và tên            | MSSV      | Email                       | Github                              |
-| :-: | -------------------- | --------- | --------------------------- | ----------------------------------- |
-|  1  | Đinh Phạm Thiên Long | 230202010 | longdpt.18@grad.uit.edu.vn  |                   |
+| STT | Họ và tên            | MSSV      | Email                       | Github                                        |
+| :-: | -------------------- | --------- | --------------------------- | --------------------------------------------- |
+|  1  | Đinh Phạm Thiên Long | 230202010 | longdpt.18@grad.uit.edu.vn  |  https://github.com/tilo2402/CS2205.CH183.git |
