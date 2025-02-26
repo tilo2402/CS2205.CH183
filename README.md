@@ -6,6 +6,7 @@
 
 - Tên môn học: PHƯƠNG PHÁP NGHIÊN CỨU KHOA HỌC - SCIENTIFIC RESEARCH METHODOLOGY
 - Mã lớp: CS2205.CH183
+- Đề tài: HIỆN THỰC MÔ HÌNH MẠNG NƠRON TÍCH CHẬP DỰA TRÊN PHẦN CỨNG ĐỂ GIẢI QUYẾT BÀI TOÁN PHÂN LOẠI MÓN ĂN
 
 ### Giảng viên
 
